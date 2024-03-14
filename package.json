@@ -1,6 +1,6 @@
 {
   "name": "simple-jquery-validate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Jquery Validate",
   "main": "main.js",
   "scripts": {
@@ -22,5 +22,9 @@
   },
   "homepage": "https://github.com/flameskeleton78/simple-jquery-validate#readme",
   "dependencies": {
+    "simple-claculator": "^1.0.2",
+    "simple-loading-wave": "^0.0.2",
+    "simple-oprations-maths": "^0.0.2",
+    "smpl-schemas": "^0.0.2"
   }
 }
