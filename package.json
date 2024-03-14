@@ -1,0 +1,26 @@
+{
+  "name": "simple-jquery-validate",
+  "version": "1.0.0",
+  "description": "Simple Jquery Validate",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "simple",
+    "validate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flameskeleton78/simple-jquery-validate.git"
+  },
+  "author": "@flameskeleton78",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flameskeleton78/simple-jquery-validate/issues"
+  },
+  "homepage": "https://github.com/flameskeleton78/simple-jquery-validate#readme",
+  "dependencies": {
+  }
+}
